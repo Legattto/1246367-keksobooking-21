@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Лаврентьев](https://up.htmlacademy.ru/javascript/21/user/1246367).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Ермилов](https://htmlacademy.ru/profile/id776985).
 
 ---
 
